@@ -1,0 +1,6 @@
+Pie Chart
+==========
+Outros          - 15.56% (257)
+catolicismo     - 77.54% (1281)
+Judaísmo       - 3.09% (51)
+Candomblé      - 3.81% (63)

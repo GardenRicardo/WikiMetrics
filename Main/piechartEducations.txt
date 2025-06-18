@@ -1,0 +1,12 @@
+Pie Chart
+==========
+Faculdade de Direito da Universidade de São Paulo - 3.11% (306)
+Universidade Federal da Bahia - 2.37% (233)
+Universidade Federal do Rio Grande do Sul - 2.89% (284)
+Faculdade de Direito da Universidade Federal de Pernambuco - 2.15% (211)
+Universidade de São Paulo - 8.97% (882)
+Outros          - 66.94% (6582)
+Universidade Federal de Minas Gerais - 2.57% (253)
+Universidade Federal do Rio de Janeiro - 6.37% (626)
+Pontifícia Universidade Católica do Rio de Janeiro - 2.21% (217)
+Universidade Federal do Paraná - 2.42% (238)

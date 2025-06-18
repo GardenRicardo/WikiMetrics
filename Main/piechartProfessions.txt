@@ -1,0 +1,10 @@
+Pie Chart
+==========
+Outros          - 59.14% (54211)
+jornalista      - 3.17% (2904)
+compositor      - 2.07% (1898)
+político       - 12.70% (11646)
+Escritor        - 3.90% (3579)
+advogado(a)     - 2.37% (2176)
+ator            - 4.03% (3697)
+futebolista     - 12.61% (11557)
